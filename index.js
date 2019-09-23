@@ -1,5 +1,3 @@
-const token = 'Herna4';
-
 function getIssues() {
 
   fetch('https://api.github.com/repos/Herna4/javascript-fetch-lab/issues', {
